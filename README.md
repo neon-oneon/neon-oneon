@@ -1,8 +1,4 @@
-- Hi, I am neon-oneon
-- I am starting out my github journey
-
-
-<!---
-neon-oneon/neon-oneon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi there 👋
+🔭 I’m currently trying to explore Deep Learning, Machine Learning, Web Development and AI
+💬 Ask me about Python and CPP programming specifics
+📫 How to reach me: find me on linkedin through the link attached
